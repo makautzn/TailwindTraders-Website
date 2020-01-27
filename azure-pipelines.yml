@@ -1,6 +1,6 @@
 variables:
   azureSubscription: TTapp
-  resourcegroup: mkttapp
+  resourcegroup: mkttappv2
   location: westeurope
   ImageName: website
 
